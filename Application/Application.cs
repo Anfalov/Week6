@@ -7,9 +7,9 @@ using Framework;
 using System.Reflection;
 using System.IO;
 
-namespace Aplication
+namespace Application
 {
-    class Aplication
+    class Application
     {
         static void Main(string[] args)
         {
