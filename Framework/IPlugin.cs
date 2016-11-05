@@ -5,7 +5,8 @@ using System.Text;
 
 namespace Framework
 {
-    public class Class1
+    public interface IPlugin
     {
+        String Name { get; }
     }
 }
